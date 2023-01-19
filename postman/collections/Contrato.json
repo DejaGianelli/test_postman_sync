@@ -1,14 +1,14 @@
 {
 	"info": {
-		"_postman_id": "e91ae8f7-1fac-47e7-8eb6-966937f17efa",
+		"_postman_id": "d70ba693-681f-413f-b26c-c6e7a4f5bc7b",
 		"name": "Contrato",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "7899844-e91ae8f7-1fac-47e7-8eb6-966937f17efa"
+		"_uid": "7899844-d70ba693-681f-413f-b26c-c6e7a4f5bc7b"
 	},
 	"item": [
 		{
 			"name": "Obter Contratos",
-			"id": "67f65ed0-6800-4ac1-85c7-ae70a32a076d",
+			"id": "f96e9c4a-a7e8-44f9-98c3-a426ac12022e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
