@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "e91ae8f7-1fac-47e7-8eb6-966937f17efa",
+		"name": "Contrato",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "7899844-e91ae8f7-1fac-47e7-8eb6-966937f17efa"
+	},
+	"item": [
+		{
+			"name": "Obter Contratos",
+			"id": "67f65ed0-6800-4ac1-85c7-ae70a32a076d",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/contratos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"contratos"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

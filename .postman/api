@@ -5,11 +5,13 @@ id = 1dc5eb28-a321-44b3-a2b3-937639181127
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"7899844-e91ae8f7-1fac-47e7-8eb6-966937f17efa","path":"Contrato.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
